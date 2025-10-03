@@ -260,4 +260,5 @@ Follow the prompts and look for the expected output. If you notice any errors in
 
 An example of good feedback would be:
 
-*The project contained all of the actions expected. However on the menu page, the menu item did not display as a hyperlink. I would suggest reviewing the code to create the hyperlink*.
+*The project contained all of the actions expected. However on the menu page, the menu item did not display as a hyperlink. I would suggest reviewing the code to create the hyperlink*.#   D j a n g o  
+ 
